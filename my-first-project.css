@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.section1{
+    display: flex;
+}
+.span1{
+    color:orange
+}
+.head1{
+    font-size: 50px;
+}
+.div1 img{width:80%;
+    
+}
+.div1{
+    width: 50%;
+    padding-left: 2%;
+}
+.a1{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 20px;
+    color: seashell;
+    border-radius: 10px;
+    font-weight: 700;
+}
