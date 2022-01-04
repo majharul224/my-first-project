@@ -61,4 +61,6 @@ h2{
 .section3{
     background-image: url(img/exp-bg.png);
     background-repeat: no-repeat;
+}footer p{
+    text-align: center;
 }
